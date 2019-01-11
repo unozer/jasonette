@@ -1,13 +1,5 @@
 {
   "$jason": {
-    "head": {
-      "title": "{ ˃̵̑ᴥ˂̵̑}",
-      "actions": {
-        "$foreground": {
-          "type": "$reload"
-        }
-      }
-    },
     "body": {
       "type": "html",
       "url": "http://www.inmediatech.it/",
