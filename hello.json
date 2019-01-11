@@ -9,8 +9,8 @@
       }
     },
     "body": {
-      "type": "html"
-      "url": "http://www.inmediatech.it/"
+      "type": "html",
+      "url": "http://www.inmediatech.it/",
       "action": {
         "trigger": "navigate"
       }
